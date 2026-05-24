@@ -1,0 +1,734 @@
+Repulic of the Philippines
+Eulogio Amang Rodriguez Institute of Science and Technology
+Nagtahan, Manila
+MARKET ANALYSIS (GCASH, GLOBE FINTECH
+INNOVATIONS, INC. (MYNT)):
+Market Analysis of GCash as the Leading Mobile
+Finance Super-app in the Philippines.
+Prepared by:
+Gagote, Edrian O.
+Gapol, Kellyprince Josch D.
+Nervez, Klarenze Naïve J.
+Velasquez, Harvey U.
+Submitted to:
+Engr. Jose Felipe, PCPE
+Engineering Management
+Eulogio ‘Amang’ Rodriguez Institute Of Science & Technology
+Nagtahan, Manila
+Repulic of the Philippines
+Eulogio Amang Rodriguez Institute of Science and Technology
+Nagtahan, Manila
+I. INTRODUCTION
+The rapid digital transformation of financial services has significantly changed how
+consumers perform transactions, manage money, and access financial services. In the
+Philippines, the fintech industry has grown rapidly due to increasing smartphone usage, internet
+penetration, and government-led initiatives promoting cashless transactions.
+One of the dominant players in this transformation is GCash, operated by Mynt (Globe
+Fintech Innovations Inc.). GCash has evolved from a simple mobile remittance service into a
+full-scale digital financial ecosystem offering payments, savings, credit, insurance, investments,
+and merchant solutions.
+From an Engineering Management perspective, GCash is not just a financial service but a
+large-scale socio-technical system, requiring complex coordination between software
+infrastructure, cybersecurity systems, financial operations, and customer behavior management.
+Studies in digital platform economies highlight that fintech super-apps like GCash succeed
+by embedding themselves into daily consumer behavior and building ecosystem lock-in effects
+through convenience and incentives (Soriano & Mamac, 2026).
+II. COMPANY’S BACKGROUND AND PROFILE
+GCash was launched in October 2004 by Globe Telecom as an SMSbased money to transfer service and later transformed into a digital
+wallet platform under Mynt, a joint venture between Globe Telecom,
+Ayala Corporation, and Ant Group. It was Globe Telecom's answer
+to Smart Communications’ Smart Padala which was prevalent and
+trendy back then and aimed to serve the majority of Filipinos who
+lacked access to formal banking services at the time. Users could
+convert their cash to e-money through cash-in and cash-out outlets like sari-sari stores with a
+transaction fee of ₱1.00. When it first rolled out, GCash wasn't a smartphone app, smartphones
+didn't even dominate the market yet. Instead, it was an SMS-based domestic remittance service.
+Repulic of the Philippines
+Eulogio Amang Rodriguez Institute of Science and Technology
+Nagtahan, Manila
+Back then GCash works without the need of the internet, people access it through cellular
+connectivity.
+Over the years, GCash expanded aggressively through partnerships with merchants,
+government agencies, and online platforms, positioning itself as the leading mobile wallet in the
+Philippines. GCash launched its mobile application in 2012 to shift from physical outlets to a
+digital cashless system. This allowed GCash to scale rapidly providing a much easier way to
+transact providing new features such as QR code-based payment systems that made merchant
+and remittance payments even simpler for the consumer. You can use GCash now in most
+transactions that you do, it can be payment for foods, bills, entertainment, daily needs, lifestyle,
+shopping, subscription and even load for connectivity. Almost everything, every transaction can
+be paid using GCash, with QR codes and InstaPay it makes payment transaction easier and less
+hassle compared to traditional banking and cash method. For conveniency purposes as it is real
+time and frictionless. Especially when it comes to refunds where traditional credits and banking
+take days or even weeks of process before it can be granted.
+At the present GCash’s services, including its investment and insurance products, make
+financial security more attainable to everyday Filipinos, a large chunk of whom are unbanked has
+now over 94 million users.
+GCash is undisputed one of the top or most probably the top financial super-app in the
+Philippines. But it is not a standalone public company, rather it operates under a joint-venture
+fintech matrix backed by major domestic and international conglomerates. Its parent company
+being Globe Fintech Innovations, Inc. (popularly known as Mynt) along with its operating
+subsidiary, G-Xchange, Inc. (GXI).
+Mynt was founded in 2015 as a fintech start-up partnership between Globe Telecom, the
+Ayala Corporation, and Ant Financial. Since then, Mynt has grown to become one of the
+country’s leading fintech service providers. Mynt has grown to be the Philippines' first and only
+$5 billion unicorn.
+Repulic of the Philippines
+Eulogio Amang Rodriguez Institute of Science and Technology
+Nagtahan, Manila
+III. INDUSTRY ANALYSIS
+In an evolving digital landscape, financial services are undergoing a significant
+transformation thanks to the proliferation of smartphones and innovative mobile technologies.
+One particular development in this space is the rise of super apps, multifaceted platforms that
+offer all-in-one solutions for various daily needs, including banking, payments, e-commerce and
+lifestyle services. The fintech sector in the Philippines is experiencing a rapid structural
+transformation. Driven by high smartphone penetration which is over 85% and an aggressive
+push for financial inclusion by the Bangko Sentral ng Pilipinas (BSP), the country has become
+one of Southeast Asia's fastest-growing mobile finance markets.
+At the vanguard of this evolution is GCash, which has effectively transitioned from a basic
+e-wallet to a massive, full-service financial super-app. The broader Philippine fintech and digital
+wallet market reached a valuation of $1.15 Billion in 2025 and is projected to scale aggressively
+up to $4.66 Billion by the year 2034. Registering a compound annual growth rate (CAGR) of
+16.75% during the years 2026-2034.
+So, we might ask what is the reason for this massive surge in today’s Philippines Fintech
+Market?
+Most reason would be the current technological advancement that we have, as technology
+improves, so as our way of life. Few years back things seemed impossible as even a proper
+internet connection back then is not as doable as it is now. But with the advancement that we
+achieved we were able to create things that makes our daily life easier and more convenient, such
+a prime example of this is the GCash. GCash has evolved into the country's leading financial
+super-app, surpassing 94 million registered users and processing over PHP 4 trillion in annual
+transactions. QR-based payments are now accounting for approximately 60% of all digital
+transactions nationwide.
+The buy-now-pay-later model is gaining rapid traction, with 63% of aware Filipinos
+actively using BNPL services and Gen Z adoption rising from 57% to 65% within a single year,
+signaling a generational shift in consumer credit preferences. The buy now pay later scheme is a
+Repulic of the Philippines
+Eulogio Amang Rodriguez Institute of Science and Technology
+Nagtahan, Manila
+project of corporations where consumers buy something that they may or may not need and then
+they can pay in installments in a span of a month up to a year depending to the purchased
+product. This is very trendy to millennials and Gen Z as it helps them satisfy the things that they
+want without being to burdened by the payment. They can bulk buy things and still be able to
+pay for it in installment. This is a pretty common practice now in the current generation where
+with one tap things can be bought and will be delivered at your house in a span of a few days.
+Philippines Fintech Market Summary:
+ Payment and fund transfer is dominating as the largest application segment,
+commanding a 45% market share in 2025, reflecting the widespread adoption of digital
+wallets, QR-based payment systems, and mobile banking applications that are enabling
+seamless transactions across the country.
+ The banking sector is exhibiting clear dominance among end users with a 50%
+market share, as traditional financial institutions such as a commercial bank, credit union,
+or insurance company are accelerating digital transformation efforts and partnering with
+fintech startups to meet evolving customer expectations for mobile-first financial services.
+ Interface application programming technology is leading the technology segment
+with a 25% share, supporting open banking initiatives, enabling seamless coordination
+between financial service providers, merchants, and third-party platforms, and reducing
+development timelines for new and improved digital financial products.
+ The digital wallet ecosystem is experiencing explosive growth, with
+the Philippines digital wallet market reaching USD 13.7 Billion in 2025 and projected to
+expand to USD 62.7 Billion by 2034 at a CAGR of 17.83%, as GCash, Maya, and
+developing platforms deepen their super-app functionalities.
+ Digital lending and buy-now-pay-later services are registering accelerating
+adoption, with microloans and BNPL products gaining particular traction among younger
+demographics as fintech platforms leverage alternative credit scoring models to extend
+financial access to previously unbanked population segments.
+Repulic of the Philippines
+Eulogio Amang Rodriguez Institute of Science and Technology
+Nagtahan, Manila
+ Cross-border payment innovation is strengthening through strategic partnerships,
+with the BSP and the Central Bank of the UAE signing a memorandum of understanding to
+enable seamless Philippines-UAE cross-border payments serving the large overseas
+Filipino worker community.
+ Luzon is commanding the largest regional share at 65% of total market revenue,
+given that this is where most people who has internet access is, anchored by Metro
+Manila's concentration of financial infrastructure, digitally connected consumers, fintech
+startups, and strong venture capital investment activity supporting the ecosystem.
+ Porter's Five Forces Analysis – Philippines Fintech Market
+Valued at USD 1.156 Billion in 2025 and projected to reach USD 4.661 Billion by 2034
+(CAGR 16.75%), this is one of Southeast Asia's most dynamic, high-growth fintech
+markets.
+Porter's Five Forces Analysis Matrix
+Porter’s Force
+Strategic
+Impact
+Description
+Bargaining
+Power Of
+Suppliers
+Moderate
+ Cloud infrastructure, payment rails, and APIs come
+from diverse global providers, expanding options for
+market players.
+ Telco partnerships (e.g., GCash) equip digital finance
+platforms with strong distribution and marketing
+leverage.
+ BSP's interoperable QR Ph standard and the National
+Retail Payment System structurally reduce platform
+dependence on any single vendor or payment
+processor
+Repulic of the Philippines
+Eulogio Amang Rodriguez Institute of Science and Technology
+Nagtahan, Manila
+Bargaining
+Power Of
+Buyers
+Moderate To
+High
+ Negligible switching costs and completely free ewallet onboarding empower consumers, continuously
+rewarding the platforms with superior user
+experiences.
+ However, strong brand loyalty and deep ecosystem
+lock-in help stabilize this dynamic constructively
+(e.g., GCash alone serves 94 million registered users,
+with adoption consistently rising).
+Threat Of New
+Entrants
+Moderate
+ The BSP's formalized digital-banking licenses and
+operational regulatory sandbox provide a clear,
+welcoming framework for agile innovators and
+international entrants.
+ Conversely, steep capital allocations, stringent
+cybersecurity protocols, and rigorous compliance
+architectures continue to naturally favor well-funded,
+trusted institutional players
+Threat Of
+Substitutes
+Low To
+Moderate
+ A historically persistent cash culture remains the
+primary traditional alternative, though it is rapidly
+converting into a fintech growth pipeline rather than
+posing a lasting threat.
+ Within modern digital finance, fintech ecosystems
+encounter very few true substitutes that can match
+their operational speed and deep financial inclusion.
+Competitive
+Rivalry
+High
+ Dominant market e-wallets (GCash, Maya),
+progressive commercial banks (RCBC), and global
+payment processors (Visa Direct) compete
+aggressively.
+Repulic of the Philippines
+Eulogio Amang Rodriguez Institute of Science and Technology
+Nagtahan, Manila
+ Market differentiation centers heavily on core
+ecosystem breadth, embedded finance capabilities,
+and proprietary AI layers driving rapid feature
+innovation
+Table 1. Porter’s Five Forces Analysis of GCash
+Market Trends and Observations:
+ The transformation of digital wallets into all-in-one super-app platforms is significantly
+changing consumer financial habits, as GCash and Maya combine payments, savings,
+investments, insurance, lending, and lifestyle services into cohesive mobile experiences
+that are supplanting traditional banking interactions for numerous Filipino users.
+ QR-based payment solutions are emerging as the leading transaction method, currently
+representing around 60% of all digital transactions in the Philippines, due to the BSP's
+QR Ph interoperability standard facilitating smooth payments among various financial
+institutions and merchant networks across the country.
+ Embedded finance solutions are increasingly popular as financial services are
+incorporated directly into e-commerce, ride-hailing, food delivery, and retail platforms,
+facilitating contextual financial products at the moment of need and minimizing friction
+for consumers seeking credit, insurance, and payment options.
+ The buy-now-pay-later model is seeing a good response, especially within Gen Z and
+millennial groups, changing how consumer credit trends as fintech platforms provide
+adaptable installment payment solutions even loans through both online and offline retail
+channels with easier approval procedures.
+ Innovation in cross-border remittances is advancing due to strategic collaborations
+between Philippine fintech firms and global payment networks, where blockchain-based
+solutions and real time settlement features are lowering transfer expenses and processing
+durations for the significant overseas Filipino worker population.
+ The rise of cloud-based fintech deployment is increasing as enhanced internet
+infrastructure and the growth of data centers in the Philippines allow smaller fintech
+Repulic of the Philippines
+Eulogio Amang Rodriguez Institute of Science and Technology
+Nagtahan, Manila
+startups and financial institutions to utilize scalable, cost-effective technology platforms
+that speed up product development and market entry schedules.
+Market Growth Drivers:
+ The rapid expansion of e-commerce and digital marketplace platforms in the Philippines
+is acting as a vital driver for fintech adoption, increasing the need for cohesive digital
+payment solutions, BNPL options, and merchant financing products. The extensive
+overseas Filipino worker community is maintaining strong cross-border remittance flows
+that are promoting innovation in quicker, more affordable international transfer solutions
+via collaborations between Philippine fintech and worldwide payment networks.
+Embedded finance is generating new revenue opportunities as non-financial platforms
+incorporate payment, lending, and insurance solutions into consumer-oriented
+applications. The merging of digital commerce and financial services are speeding up
+platform economics, allowing fintech firms to seize transaction value throughout the
+complete consumer experience.
+ The Philippines fintech market is primarily driven by the government's ambitious
+financial inclusion agenda and the rapid proliferation of affordable smartphones and
+mobile internet connectivity across the country. The BSP's National Retail Payment
+System has been instrumental in creating interoperable payment infrastructure, with the
+ QR Ph standard facilitating seamless transactions across diverse institutions. Digital
+payment users are projected to exceed 60 million by 2027, representing over 50% of the
+local population. Rising digital literacy among younger demographics, coupled with
+affordable data plans and expanding mobile network coverage in provincial areas, is
+democratizing access to financial applications. Agent banking networks and mobile
+money platforms are extending financial services to remote island communities where
+traditional branch infrastructure remains economically unfeasible.
+ The competitive landscape of the Philippines fintech market exhibits a moderately
+competitive environment characterized by established banks competing alongside
+Repulic of the Philippines
+Eulogio Amang Rodriguez Institute of Science and Technology
+Nagtahan, Manila
+emerging digital-native startups and international payment processors. Major players
+operating in the market include GCash (Mynt/Globe Telecom), Maya Bank (Voyager
+Innovations), Tonik Digital Bank, GoTyme Bank, UNOBank, Union Digital Bank,
+Billease, Rizal Commercial Banking
+ Corporation (RCBC), Dragonpay Corporation, and PayMongo, among others. These
+companies are differentiating through innovative product offerings, strategic partnerships
+with telecommunications providers, investments in artificial intelligence capabilities, and
+expansion into underserved provincial markets.
+IV. TARGET MARKET ANALYSIS
+GCash has scaled to over 94 million registered users, its target market has shifted
+drastically over the last two decades. Rather than viewing its users as a single monolith, GCash
+categorizes its target market into distinct consumer, business, and international segments.
+Target Market
+Segment
+Key Demographics &
+Traits
+Primary Financial
+Needs
+Key App Features Used
+The Grassroots &
+Unbanked
+Classes D & E (90% of
+user base) 74% located in
+rural provinces outside
+Metro Manila
+Includes farmers, sari-sari
+store owners, and gig
+workers
+Zero-minimumbalance accounts
+Easy cash-in/cashout via local outlets
+Low-barrier entry
+without complex
+bank requirements
+Express Send (P2P
+transfers)
+Bills Payment GInsure
+(Micro-insurance)
+GCash Pera Outlet
+Tech-Savvy
+Youth & Young
+Professionals
+Aged 18 to 35 Students,
+BPO employees,
+corporate workers
+Frictionless
+lifestyle integration
+Instant retail
+payments
+Scan to Pay (Merchant
+QR)
+GStocks PH & GInvest
+GSave (Digital savings)
+Repulic of the Philippines
+Eulogio Amang Rodriguez Institute of Science and Technology
+Nagtahan, Manila
+Highly connected,
+smartphone dependent
+Urban and semi-urban
+centers
+Accessible wealthbuilding and
+investment tools
+GGives & GLoan
+Overseas Filipino
+Workers (OFWs)
+Filipinos working abroad
+Based in Middle East,
+Europe, North America,
+Asia
+Primary household
+breadwinners
+Low-cost, instant
+international
+remittance
+Direct control over
+how money is
+spent by family
+GCash Overseas
+(International SIM
+signup)
+Direct Bills Payment
+(Paying PH utilities
+from abroad)
+International
+Remittance
+Table 2. GCash Target Market Segmentation Analysis
+V. COMPETITOR ANALYSIS
+Competitor Strengths Weaknesses
+Maya
+Digital banking services, savings with
+interest, strong fintech innovation
+Smaller merchant network
+compared to GCash
+GoTyme Bank
+Easy banking services, partnership with
+Robinsons Group
+Newer platform with fewer
+users
+GrabPay
+Integrated with transport and food delivery
+services
+Limited financial features in
+the Philippines
+Repulic of the Philippines
+Eulogio Amang Rodriguez Institute of Science and Technology
+Nagtahan, Manila
+MariBank
+Philippines
+Fast digital banking services, cashback
+rewards, integration with Sea Limited
+ecosystem
+Newer brand identity may still
+confuse some customers
+Table 3. Competitor Analysis of Major Philippine Fintech Platforms
+GCash remains the market leader because of its accessibility and wide range of services.
+According to Louis Thompsett (2025), GCash became a “financial super app” because it
+combined payments, loans, insurance, and investment services in one platform.
+However, competitors continue to improve their own digital payment systems. Maya
+focuses on digital banking and savings accounts, while GoTyme promotes customer convenience
+and rewards programs. This competition pushes GCash to improve its technology and customer
+experience.
+VI. SWOT ANALYSIS
+SWOT analysis is used to evaluate internal strengths and weaknesses, as well as external
+opportunities and threats affecting GCash’s market position in the Philippine fintech industry.
+Strengths
+Strong brand recognition in the Philippine digital wallet market
+Wide range of financial services (payments, loans, savings, investments)
+Large network of partner merchants and government services
+Convenience for the end users
+Table 4.1 Strengths analysis
+Repulic of the Philippines
+Eulogio Amang Rodriguez Institute of Science and Technology
+Nagtahan, Manila
+GCash is recognized as one of the leading mobile wallet applications in the Philippines
+because of its accessibility and wide service coverage. According to Soriano and Mamac (2026),
+GCash continues to expand its financial ecosystem by offering services beyond digital payments,
+including savings, insurance, and investment products. Its partnerships with banks, businesses,
+and government agencies also help increase customer convenience and trust. These strengths
+allow GCash to maintain a competitive advantage in the fintech industry.
+Weaknesses
+Customer complaints regarding app downtime
+Limited customer service response during peak concerns
+Vulnerability to scams and phishing attacks
+Heavy dependence on internet and mobile access.
+Table 4.2 Weaknesses analysis
+Despite its popularity, GCash still experiences technical and security challenges. Users
+sometimes report delayed transactions and temporary system maintenance, especially during
+periods of high usage. The platform also faces cybersecurity threats such as phishing scams and
+online fraud. According to Thompsett (2025), maintaining security and improving customer
+experience remain important challenges for financial super apps like GCash.
+Opportunities
+Repulic of the Philippines
+Eulogio Amang Rodriguez Institute of Science and Technology
+Nagtahan, Manila
+Increasing adoption of cashless transactions in the Philippines
+Growth of e-commerce and online banking services
+Expansion of financial inclusion in rural communities
+Increasing smartphone and internet users.
+Table 4.3 Opportunities analysis
+The continuous growth of digital transactions creates significant opportunities for GCash.
+More Filipinos are now using smartphones and online banking services for daily transactions.
+Government support for digital transformation also encourages the growth of cashless payment
+systems. GCash can further expand by reaching unbanked communities and offering more
+accessible financial services nationwide.
+Threats
+Strong competition from Maya, GoTyme, GrabPay and MariBank
+Cybersecurity threats and online fraud.
+Possible changes in financial technology regulations
+Data privacy concerns that may reduce customer trust
+Table 4.4 Threats analysis
+The Philippine fintech industry is becoming more competitive as digital banks and e-wallet
+companies continue to grow. Competitors such as Maya and SeaBank provide similar services
+that attract customers through rewards and high-interest savings accounts. In addition,
+Repulic of the Philippines
+Eulogio Amang Rodriguez Institute of Science and Technology
+Nagtahan, Manila
+cybersecurity threats and stricter government regulations may affect customer trust and
+operational processes. These challenges require GCash to continuously improve its technology,
+security, and service quality.
+According to a SWOT analysis study uploaded by students from De La Salle University
+(2025), GCash’s strong user base and convenience are major strengths, while security
+vulnerabilities and customer support issues remain major concerns.
+VII. PESTLE ANALYSIS
+Political Factors
+The government of the Philippines advocates digitization and cashless initiatives through
+government programs from Bangko Sentral ng Pilipinas(BSP). Keisha Ta-Asan (20 25) notes
+that BSP states transactions through digital means already make up more than 57% of retail
+transactions. Government efforts on QR pay advocacy and financial inclusion programs allow
+further retention of e-wallet services such as GCash. Partnerships between government agencies
+with fintech firms further allow convenient transactions when accessing public services.
+Economic Factors
+The ongoing expansion of e-commerce, online banking, and digital transactions heightens
+the need for e-wallet service offerings in the Philippines. Ivory Myka R. Galang (2025) found
+that digital payments have a positive long run relationship with decreased cash dependency of
+Filipinos. The upward trend of Filipinos transacting online presents growth opportunities for
+GCash in extending their services and acquiring more customers. Rising inflation and economic
+uncertainties may still impact how people spend and transact.
+Social Factors
+Filipinos have started trusting digital transactions due to its convenience, accessibility, and
+fast transactions. Keisha Ta-Asan quoted BSP data that stated majority of Filipinos use digital
+Repulic of the Philippines
+Eulogio Amang Rodriguez Institute of Science and Technology
+Nagtahan, Manila
+transactions in paying merchants, transferring funds and paying bills (2025). As younger
+generations, online shoppers and smartphone users increase in the population. Expectations are
+rising for digital payment options like e-wallet services GCash to continue growing. Cashless
+payments are allowing for more consumers including those who are unbanked to be financial
+included.
+Technological Factors
+Smartphone innovation along with internet accessibility and growth of financial
+technology will still cater for the growth of GCash services. Features and services like QR
+payments, contactless payments, and digital banking are beneficial to provide convenience to
+customers. Cybersecurity threats, phishing attacks, and fintech technology downtime are critical
+setbacks for financial technology firms to consider. As quoted by Louis Thompsett (2025),
+security systems and digital services provided by financial super apps need to evolve to keep
+customers secure.
+Legal Factors
+The Bangko Sentral ng Pilipinas's regulations, especially those dealing with consumer
+protection, data privacy, and anti-money laundering, must be complied with GCash. According to
+Reuters (2025), in order to prevent illegal financial activity and promote traceable digital
+payments, the BSP increased limits on large cash transactions. Maintaining trust, safety, and
+stable operation in the fintech sector depends on compliance to financial regulations.
+Environmental Factors
+Digital payment systems help reduce the use of paper receipts, physical transportation, and
+manual banking processes, which may contribute to environmental sustainability. GCash also
+supports environmental programs such as GForest, where users can participate in tree-planting
+activities through eco-friendly digital transactions. The shift toward digital finance encourages
+businesses and consumers to reduce physical resource consumption while promoting sustainable
+practices
+Repulic of the Philippines
+Eulogio Amang Rodriguez Institute of Science and Technology
+Nagtahan, Manila
+VIII. MARKETING STRATEGIES
+1. Social Media and Digital Marketing Strategy
+GCash uses digital marketing through social media platforms such as Facebook, TikTok,
+Instagram, and YouTube to promote its services, discounts, and financial campaigns. These
+platforms help GCash reach younger consumers and increase customer engagement. According
+to Cheryll Ruth Soriano and Marinel Mamac (2026), GCash successfully expanded its customer
+base by using digital platforms that are highly accessible to Filipinos. The company also uses
+influencer marketing and online advertisements to strengthen brand awareness and customer
+trust.
+Digital marketing allows GCash to communicate quickly with consumers and promote new
+features efficiently. This strategy is effective because many Filipinos actively use social media
+and mobile applications for daily transactions.
+2. Partnership and Ecosystem Marketing Strategy
+GCash strengthens its market position by forming partnerships with banks, online stores,
+restaurants, transport services, and government agencies. These partnerships increase the
+accessibility and convenience of GCash services for users. According to Louis Thompsett
+(2025), GCash became a “financial super app” because it integrated multiple financial services
+and business partnerships into one platform.
+The company also collaborates with government institutions for bills payment, remittances,
+and public service transactions. These partnerships help GCash expand its customer reach and
+improve customer convenience nationwide.
+3. Promotional and Rewards Marketing Strategy
+GCash uses cashback programs, discounts, referral bonuses, and reward campaigns to
+attract and retain customers. Promotional campaigns encourage users to perform more
+transactions using the application. According to GCash, promotional activities such as “Double
+Repulic of the Philippines
+Eulogio Amang Rodriguez Institute of Science and Technology
+Nagtahan, Manila
+Safe,” “Scan to Pay,” and cashback offers are designed to increase customer engagement and
+transaction frequency.
+Rewards and promotions are important in the fintech industry because they encourage
+users to continue using digital payment services instead of cash transactions. This strategy also
+helps GCash compete with other digital wallets such as Maya and SeaBank Philippines.
+4. Financial Inclusion Marketing Strategy
+GCash focuses on financial inclusion by targeting unbanked and underserved Filipinos
+who have limited access to traditional banking services. The company allows users to create
+accounts easily using smartphones, making financial services more accessible in rural and urban
+areas. According to Soriano and Mamac (2026), GCash plays an important role in improving
+financial inclusion by providing digital financial services to communities with limited banking
+infrastructure. This strategy helps GCash expand its market while supporting the Philippine
+government’s goal of increasing digital financial participation.
+5. Super App Expansion Strategy
+GCash applies a “super app” strategy by offering services beyond digital payments,
+including savings, loans, insurance, investments, and mobile banking services. According to
+Thompsett (2025), GCash transformed from a payment platform into a financial super app by
+integrating multiple financial services into one mobile application.
+This strategy increases customer retention because users can access different financial
+products in one platform. It also strengthens GCash’s competitive advantage in the Philippine
+fintech market.
+Repulic of the Philippines
+Eulogio Amang Rodriguez Institute of Science and Technology
+Nagtahan, Manila
+IX. FINANCIAL AND PERFORMANCE ANALYSIS
+Figure 1. Philippine Fintech Industry Growth Analysis
+1. Macro Industry Performance Analysis
+The macroeconomic environment in which GCash operates exhibits sustained
+exponential expansion, serving as a powerful structural tailwind for the platform.
+Based on the data provided.
+ Market Capitalization Scaling: The broader Philippine fintech market begins with a
+baseline valuation of USD 1.15 Billion in the year 2025.
+ Long-Term Projection Metrics: Driven by changing consumer habits and openbanking initiatives, the market is projected to expand steadily to USD 4.66 Billion
+by 2034.
+ Growth Velocity Assessment: Calculating the non-linear progression across this 9-
+year horizon yields a Compound Annual Growth Rate (CAGR) of 16.75%. This
+indicates a highly stable, high-velocity market expansion that minimizes risk for
+digital-native platforms.
+Repulic of the Philippines
+Eulogio Amang Rodriguez Institute of Science and Technology
+Nagtahan, Manila
+Figure 2. GCash User Growth (2019–2025).
+2. Operational Scaling & User Penetration Analysis
+An evaluation of GCash’s customer acquisition framework demonstrates an aggressive
+expansion curve that successfully navigated the transition from an early-stage ecosystem into a
+mass-market utility.
+Based on historical audit data provided.
+ The Foundation Era (2019–2021): In 2019, GCash possessed a baseline registration
+of 20 million users. Fueled by structural shifts toward contactless transactions, the
+platform captured a 65% growth rate by 2020 to reach 33 million users, continuing
+its upward trajectory to hit 51 million users by 2021.
+ The Mature Stage (2022–2025): The platform maintained a steep growth slope,
+scaling to 66 million users in 2022, 76 million in 2023, and reaching 85 million in
+2024. By 2025, user acquisition surpassed a historic milestone of 94 million
+registered users.
+Repulic of the Philippines
+Eulogio Amang Rodriguez Institute of Science and Technology
+Nagtahan, Manila
+ Performance Insight: Reaching over 94 million users in a country with an adult
+population of roughly 75–80 million indicates remarkable ecosystem saturation.
+This implies that growth is successfully extending beyond urban professionals into
+the historically unbanked segments of rural provinces.
+Figure 3. GCash Gross Transaction Volume Growth (2019–2025)
+.
+3. Economic Velocity & Gross Transaction Volume Analysis
+User acquisition is only viable if paired with deep transactional engagement. Tracking
+GCash's Gross Transaction Volume (GTV) reveals how intensely the active user base utilizes the
+platform for their economic needs.
+Based on transaction metrics provided.
+ Volume Acceleration Profile: In 2019, the ecosystem processed an annualized
+volume of PHP 0.5 Trillion. This value doubled to PHP 1.0 Trillion in 2020, and
+expanded dramatically to PHP 1.8 Trillion in 2021 and PHP 2.7 Trillion in 2022.
+Repulic of the Philippines
+Eulogio Amang Rodriguez Institute of Science and Technology
+Nagtahan, Manila
+ Peak Monetary Velocity: By 2024, transaction values reached PHP 3.7 Trillion,
+culminating in an unprecedented PHP 4.0 Trillion milestone by the close of fiscal
+year 2025.
+X. CURRENT ISSUES AND CHALLENGES
+1. Slowing Growth Rate (Market Maturity)
+The most obvious issues that the GCash has is that the slow growth rate they become
+dominant in 2019-2022 but since there's so many other e-wallet platforms that came out the
+becomes more gradual than before based on the data given it says that from 2023-2025 only
+26.67% rather than 142.86% of 2019-2022.
+Challenge:
+GCash is slowly entering a mature stage where it becomes harder to maintain a rapid growth.
+2. System Strain Due to High Volume
+Even though GCash entered a mature stage in its slower growth than usual, the transaction
+increased from PHP0.5T - PHP4T in the span of 2019 - 2025 (6 Years).
+Challenge:
+The system must handle massive real-time transactions; this is a high risk of App downtime and
+Delayed transactions based on GMA News. (2023), GCash became temporarily unavailable
+nationwide making it unable to send money, pay bills and access accounts and the GCash
+company responded to that “system maintenance and upgrade”. Also based on ABS-CBN News.
+(2023). It says that the users complained about delayed transfers and missing or unreflected
+balance and again GCash responded that “Issues were due to the processing delays”. This is
+where customers slowly lose their trust to GCash and it happened again in 2023 where GCash
+apologizes for downtime amid heavy usage. Philippine Daily Inquirer. (2023).
+Overall, it emphasizes the need to improve system scalability and infrastructure.
+Repulic of the Philippines
+Eulogio Amang Rodriguez Institute of Science and Technology
+Nagtahan, Manila
+XI. CONCLUSION
+GCash transformed themselves from SMS-Remittance services into $5B financial super
+app services. They bridge the gap between traditional banking infrastructure and the unbanked
+majority. GCash successfully captured over 94 Millions of Filipinos' hearts and ease them to
+their everyday life and to their goal of driving a generational shift into a cashless economy.
+The financial and performance analysis underscores that the GCash market dominance as of
+today is sustained by three categories
+Macro Industry:
+They move forward to peer-to-peer transfers into highly profitable segments like digital
+credit (GLoan, GGives) and wealth management (GStocks, GSave) has insulated GCash from
+the cash-burning cycles typical of early-stage fintechs.
+Operational Scaling & User Penetration:
+The data proves that GCash successfully broke out among the "urban professional" people.
+Standardized the platform that aggressively penetrated to people from Class D and E or people in
+provinces that being ignored to the traditional commercial banks due to lack of physical branch
+infrastructure or formal documentation.
+
+Economic Velocity & Gross Transaction Volume:
+In 2019, an average volume of PHP0.5 Trillion indicated that users treated GCash as a
+digital "coin purse" reserved for occasional peer-to-peer transfers or minor cellular load
+purchases. But then they found that it's more convenient and they realize that there's more than
+just a coin purse, and now jumping to PHP4.0 Trillion, the data proves a profound behavioral
+shift. Most Filipinos are now using and running their businesses through the app like their
+primary household budget, investments and businesses doings. It has successfully displaced
+physical cash for high-value transactions like monthly utility bills, commercial retail payments,
+and institutional remittances.
+Repulic of the Philippines
+Eulogio Amang Rodriguez Institute of Science and Technology
+Nagtahan, Manila
+XII. RECOMMENDATION:
+GCash entered a mature stage where they slowly grew since there are others e-wallet and
+e-bans platforms that just came out like Maya, GoTyme. GCash needs to address critical
+vulnerabilities in its infrastructure.
+Cybersecurity:
+ Security should never be an afterthought or a compliance checklist handled by a separate
+department at the end of a project. GCash must integrate security scanning automatically directly
+into the developers' daily workflow. Established double identity biometrics of AI Identity
+verification systems.
+System stability:
+Stop their tricks and focus more on the engineering department. If engineers are constantly
+rushed to churn out new promotional mini-games or commercial banners, the core codebase
+becomes bloated, fragmented, and highly susceptible to crashing under sudden loads. That's the
+reason why during peak hours or peak transactions they lose control and worst app downtime.
+XIII. REFERENCES
+ABS-CBN News. (2023, May 9). GCash users report delayed transactions, missing funds.
+https://news.abs-cbn.com/business/05/09/23/gcash-users-report-delayed-transactions-missingfunds
+BNC News. (2024). GCash reaches 94 million users.
+Business Model Canvas Template. (2026). Mynt PESTLE analysis.
+https://businessmodelcanvastemplate.com/products/mynt-pestle-analysis
+Cabuenas, J. V. D. (2024, May 21). SeaBank Philippines sees first profitable quarter since
+launching app. GMA News Online.
+https://www.gmanetwork.com/news/money/companies/907458/seabank-philippines-sees-firstprofitable-quarter-since-launching-app/story/
+Course Hero. (2025). SWOT analysis of GCash.
+https://www.coursehero.com/file/246785969/SYSDESI-Group-1-SWOT-Analysispdf/
+Repulic of the Philippines
+Eulogio Amang Rodriguez Institute of Science and Technology
+Nagtahan, Manila
+Embiggen Group. (n.d.). Official website. https://embiggengroup.com/
+EIN Presswire. (2026, May 18). Philippines fintech market 2026-2034 size share report
+segments. EIN News. https://tech.einnews.com/amp/pr_news/912737507/philippines-fintechmarket-2026-2034-size-share-report-segments
+Galang, I. M. R. (2025). Digital payments and cash demand in the Philippines. Bangko Sentral
+ng Pilipinas. Socioeconomic Research Portal for the Philippines. https://serpp.pids.gov.ph/publication/public/view?slug=digital-payments-and-cash-demand-in-thephilippines
+GCash. (2026). Official website: About us. https://www.gcash.com/about-us
+GMA News. (2023, May 9). GCash temporarily unavailable due to system maintenance.
+https://www.gmanetwork.com/news/money/companies/869446/gcash-temporarily-unavailabledue-to-system-maintenance/story/
+Harvard Business School. (n.d.). The five forces. Institute for Strategy and Competitiveness.
+https://www.isc.hbs.edu/strategy/business-strategy/Pages/the-five-forces.aspx
+MariBank Philippines. (2026). Official website. https://www.maribank.ph
+Maya Philippines. (2026). Official website. https://www.maya.ph
+Mynt. (n.ph.). Official website. https://mynt.com.ph/
+OpenPR. (n.d.). Philippines fintech market size to reach USD 4,661.14 million.
+Philippine Daily Inquirer. (2023, May 10). GCash apologizes for downtime amid heavy usage.
+https://business.inquirer.net/400262/gcash-apologizes-for-downtime-amid-heavy-usage
+Philippine News Agency. (2021). GCash user growth report.
+Reuters. (2025, September 19). Philippines central bank tightens rules on large cash
+withdrawals amid corruption crackdown. https://www.reuters.com/world/asiapacific/philippines-central-bank-tightens-rules-large-cash-withdrawals-amid-corruption-2025-
+09-19/
+Reuters. (2026, May 14). Philippine e-wallet firm Mynt aiming for $8 billion valuation in IPO.
+https://www.reuters.com/world/asia-pacific/philippine-e-wallet-firm-mynt-aiming-8-billionvaluation-ipo-sources-say-2026-05-14/
+SeaBank Philippines. (2026). Official website. https://www.seabank.ph
+Repulic of the Philippines
+Eulogio Amang Rodriguez Institute of Science and Technology
+Nagtahan, Manila
+Soriano, C. R., & Mamac, M. (2026). From SMS-based remittance toolkit to super-app:
+Platformed finance and the case of GCash. Media, Culture & Society. Advance online
+publication. https://journals.sagepub.com/doi/full/10.1177/29768624261425416
+STL Partners. (n.d.). What is GCash? https://stlpartners.com/articles/consumer/what-is-gcash/
+SWOTAnalysis.com. (2025). Mynt SWOT analysis & strategic plan 2025-Q4.
+https://www.swotanalysis.com/mynt
+Ta-Asan, K. (2025, July 8). Over half of retail transactions now digital, says BSP. The Philippine
+Star. https://www.philstar.com/nation/2025/07/08/2456246/over-half-retail-transactions-nowdigital-says-bsp
+The Philippine Star. (2025, September 17). SeaBank completes rebrand as MariBank
+Philippines. https://www.philstar.com/business/2025/09/17/2473275/seabank-completesrebrand-maribank-philippines
+Thompsett, L. (2025, May 20). GCash: The rise of a financial super app. FinTech Magazine.
+https://fintechmagazine.com/articles/gcash-the-rise-of-a-financial-super-app
+Wikipedia contributors. (2026, May 20). GCash. Wikipedia, The Free Encyclopedia.
+https://en.wikipedia.org/wiki/GCash
